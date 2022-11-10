@@ -16,6 +16,7 @@ Simple Calculator class with allow user use basic math and read file. The bigger
 * [Features](#features)
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
+* [Screenshots](#screenshots)
 
 
 ## GETTING STARTED
@@ -56,6 +57,12 @@ or:
   - pytest-cov==4.0.0
   - coverage==6.5.0
 
+## Screenshots:
+
+### Coverage report
+<a href="https://ibb.co/r7FJPFH"><img src="https://i.ibb.co/tmQ5fQD/coverage-report.png" alt="coverage-report" border="0"></a>
+### Calculator ceverage detail report
+<a href="https://ibb.co/RzG6rP4"><img src="https://i.ibb.co/J5Wp62F/coverage-detailpng.png" alt="coverage-detailpng" border="0"></a>
 
 ## Project Status:
   
